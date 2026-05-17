@@ -1,0 +1,3 @@
+# Update dependencies
+
+- Bump pydantic to v2.13.4
